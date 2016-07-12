@@ -94,6 +94,7 @@ module.exports = {
                     "state",
                     "contextTypes",
                     "childContextTypes",
+                    "props",
                     "propTypes",
                     "defaultProps",
                     "static-methods",
