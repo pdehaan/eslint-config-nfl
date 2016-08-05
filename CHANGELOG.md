@@ -1,3 +1,13 @@
+<a name="9.1.1"></a>
+## [9.1.1](https://github.com/nfl/eslint-config/compare/9.1.0...v9.1.1) (2016-08-05)
+
+
+### Bug Fixes
+
+* Update deprecated rules ([4bc4774](https://github.com/nfl/eslint-config/commit/4bc4774))
+
+
+
 <a name="9.1.0"></a>
 # [9.1.0](https://github.com/nfl/eslint-config/compare/v8.0.1...v9.1.0) (2016-07-21)
 
