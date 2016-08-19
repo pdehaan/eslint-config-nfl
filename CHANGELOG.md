@@ -1,3 +1,18 @@
+<a name="10.0.0"></a>
+# [10.0.0](https://github.com/nfl/eslint-config/compare/9.1.0...v10.0.0) (2016-08-19)
+
+
+### Bug Fixes
+
+* Update deprecated rules ([4bc4774](https://github.com/nfl/eslint-config/commit/4bc4774))
+
+
+### Features
+
+* Enable props sorting. ([6470093](https://github.com/nfl/eslint-config/commit/6470093))
+
+
+
 <a name="9.1.1"></a>
 ## [9.1.1](https://github.com/nfl/eslint-config/compare/9.1.0...v9.1.1) (2016-08-05)
 
