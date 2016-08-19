@@ -183,9 +183,10 @@ module.exports = {
         "react/jsx-pascal-case": 2,
         // Enforce props alphabetical sorting
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-sort-props.md
-        "react/jsx-sort-props": [0, {
+        "react/jsx-sort-props": [1, {
             "ignoreCase": false,
-            "callbacksLast": false,
+            "callbacksLast": true,
+            "shorthandFirst": true
         }],
         // Enforce spaces before the closing bracket of self-closing JSX elements
         // https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-space-before-closing.md
